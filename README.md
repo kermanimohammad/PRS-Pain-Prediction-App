@@ -11,7 +11,7 @@ It uses four cluster-based features (`C1`, `C2`, `C3`, `C4`) as inputs.
 
 ## 🚀 Live Demo
 
-👉 [Try the app on Streamlit Cloud]([https://prs-pain-prediction-app.streamlit.app/])  
+👉 [Try the app on Streamlit Cloud](https://prs-pain-prediction-app.streamlit.app/)  
 *(Replace with your actual Streamlit app URL after deployment)*
 
 ---
