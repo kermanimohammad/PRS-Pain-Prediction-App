@@ -39,36 +39,21 @@ predict_app/
 
 ### 1. Clone this repo
 
-git clone https://github.com/YOUR_USERNAME/prs-pain-predictor.git
+git clone https://github.com/kermanimohammad/PRS-Pain-Prediction-App.git
 cd prs-pain-predictor
 2. Install dependencies
 pip install -r requirements.txt
 3. Launch the app
 **streamlit run predict_app.py**
-☁️ Deploy on Streamlit Cloud
-Go to https://streamlit.io/cloud
-
-Sign in with GitHub and click New App
-
-Select this repo and the file predict_app.py
-
-Click Deploy
-
-Your app will be live at:
-https://your-app-name.streamlit.app
 
 🧪 Requirements
 Python 3.7+
-
 streamlit
-
 scikit-learn
-
 joblib
-
 numpy
 
 👨‍🔬 Author
 Mohammad Mehdi Kermani
-LinkedIn • GitHub
+[LinkedIn](https://www.linkedin.com/in/mohamadkermani/) • [GitHub](https://github.com/kermanimohammad/)
 
