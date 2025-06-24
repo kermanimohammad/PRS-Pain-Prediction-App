@@ -37,23 +37,29 @@ predict_app/
 
 ## 💻 Run Locally
 
-### 1. Clone this repo
+### 1. Clone this repo:
 
 git clone https://github.com/kermanimohammad/PRS-Pain-Prediction-App.git
+
 cd prs-pain-predictor
-2. Install dependencies
+
+### 2. Install dependencies:
+
 pip install -r requirements.txt
-3. Launch the app
+
+### 3. Launch the app:
+
 **streamlit run predict_app.py**
 
-🧪 Requirements
-Python 3.7+
-streamlit
-scikit-learn
-joblib
-numpy
+🧪 Requirements:
+• Python 3.7+
+• streamlit
+• scikit-learn
+• joblib
+• numpy
 
 👨‍🔬 Author
 Mohammad Mehdi Kermani
-[LinkedIn](https://www.linkedin.com/in/mohamadkermani/) • [GitHub](https://github.com/kermanimohammad/)
+• [LinkedIn](https://www.linkedin.com/in/mohamadkermani/) 
+• [GitHub](https://github.com/kermanimohammad/)
 
